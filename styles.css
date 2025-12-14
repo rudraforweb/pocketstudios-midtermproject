@@ -1,0 +1,7 @@
+.image-text {
+  display: flex;
+  align-items: center; /* vertical centering */
+  justify-content: flex-start; /* align to left */
+  gap: 5px; /* space between image & text */
+  text-align: left; /* ensure text is left-aligned */
+}
